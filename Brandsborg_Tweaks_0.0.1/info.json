@@ -1,0 +1,15 @@
+{
+  "name": "BrandsborgTweaks",
+  "version": "0.0.1",
+  "title": "Brandsborg Tweaks",
+  "author": "sbrandsborg",
+  "email": "steffen@sbrandsborg.dk",
+  "homepage": "steffen@sbrandsborg.dk",
+  "contact": "steffen@sbrandsborg.dk",
+  "description": "Provides settings for non-game-changing tweaks",
+  "factorio_version":"0.16",
+  "dependencies": 
+    [
+	  "base >= 0.16.0"
+	]
+}
