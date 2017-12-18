@@ -6,7 +6,7 @@
   "email": "steffen@sbrandsborg.dk",
   "homepage": "steffen@sbrandsborg.dk",
   "contact": "steffen@sbrandsborg.dk",
-  "description": "Provides settings for non-game-changing tweaks",
+  "description": "A mod for tweaking game settings, using mod settings.",
   "factorio_version":"0.16",
   "dependencies": 
     [
